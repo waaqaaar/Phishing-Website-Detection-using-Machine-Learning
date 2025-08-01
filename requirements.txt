@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+beautifulsoup4
+whois
+google
+seaborn
+pandas
+joblib
